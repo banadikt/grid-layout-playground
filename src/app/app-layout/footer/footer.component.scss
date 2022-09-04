@@ -1,0 +1,10 @@
+.footer-wrapper {
+  height: 50px;
+  background-color: lightyellow;
+  bottom: 0;
+  transform: translateX(250px);
+  overflow-x: hidden;
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center;
+}

@@ -1,0 +1,11 @@
+.header-wrapper {
+  top: 0;
+  height: 80px;
+  background-color: lightblue;
+  transform: translateX(250px);
+  overflow-x: hidden;
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center;
+
+}

@@ -1,0 +1,10 @@
+.main-content-wrapper {
+  //margin-left: 250px;
+  background-color: lightgreen;
+  height: calc(100% - 130px);
+  transform: translateX(250px);
+  overflow-x: hidden;
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center;
+}
