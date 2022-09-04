@@ -9,7 +9,6 @@ import { MainContentComponent } from './app-layout/main-content/main-content.com
 import { HeaderComponent } from './app-layout/header/header.component';
 import { FooterComponent } from './app-layout/footer/footer.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import {MatGridListModule} from "@angular/material/grid-list";
 
 @NgModule({
   declarations: [
@@ -24,7 +23,6 @@ import {MatGridListModule} from "@angular/material/grid-list";
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    MatGridListModule
   ],
   providers: [],
   bootstrap: [AppComponent]
